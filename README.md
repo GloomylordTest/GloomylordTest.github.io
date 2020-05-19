@@ -14,9 +14,11 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 * changed the behavior when you press the space
 * added a second horizon
 
-[try my Fork :smile: ](https://gloomylord.github.io/)
+[try my Fork :smile: ](https://gloomylordtest.github.io/)
 
 ![chrome offline game cast](/Trex.gif)
+
+### my main github : https://github.com/Gloomylord
 
 
 
